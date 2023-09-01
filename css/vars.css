@@ -1,0 +1,26 @@
+/*Custom Properties*/
+:root{
+    
+    /*FONTS*/
+    /*fonts-family*/
+    --ff-main: 'Archivo', sans-serif;
+    --ff-secondary: 'Roboto', sans-serif;
+    /*fonts-size*/
+    --fs-xl: 5rem;      /* 80px*/
+    --fs-lg: 2.5rem;    /* 40px*/
+    --fs-md: 1.125rem;  /* 18px*/
+    --fs-nm: 1rem;      /* 16px*/
+    --fs-sm: 0.875rem;  /* 14px*/
+    /*fonts-weight*/
+    --fw-bk: 900;
+    --fw-md: 500;
+    --fw-rg: 400;
+    /*COLORS*/
+    --clr-main: hsla(12, 76%, 61%, 1); 
+    --clr-main-bg:  rgb(246, 232, 225);
+    --clr-inner-bg: rgb(232, 205, 199);
+    --clr-white: hsla(0, 100%, 100%, 1);
+    --clr-gray: hsla(0, 0%, 55%, .1);
+    --clr-gray-text: hsla(0, 0%, 55%, 1);        
+    --clr-black: hsla(0,0%,0%,1); 
+}
